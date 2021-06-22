@@ -1,0 +1,646 @@
+id_municipio,municipio_nome,arearegional,id_gaema,id_redeprotetiva
+3500105,Adamantina,Presidente Prudente,,11
+3500204,Adolfo,São José do Rio Preto,,10
+3500303,Aguaí,Campinas,,14
+3500402,Águas da Prata,Campinas,,14
+3500501,Águas de Lindóia,Campinas,,14
+3500550,Águas de Santa Bárbara,Bauru,,6
+3500600,Águas de São Pedro,Piracicaba,11,
+3500709,Agudos,Bauru,7,
+3500758,Alambari,Sorocaba,,6
+3500808,Alfredo Marcondes,Presidente Prudente,6,
+3500907,Altair,São José do Rio Preto,,7
+3501004,Altinópolis,Franca,5,
+3501103,Alto Alegre,Araçatuba,,10
+3501152,Alumínio,Sorocaba,12,
+3501202,Álvares Florence,São José do Rio Preto,,7
+3501301,Álvares Machado,Presidente Prudente,6,
+3501400,Álvaro de Carvalho,Bauru,,11
+3501509,Alvinlândia,Bauru,,11
+3501608,Americana,Piracicaba,11,
+3501707,Américo Brasiliense,Ribeirão Preto,,16
+3501806,Américo de Campos,São José do Rio Preto,,7
+3501905,Amparo,Campinas,10,
+3502002,Analândia,Piracicaba,11,
+3502101,Andradina,Araçatuba,,10
+3502200,Angatuba,Sorocaba,,6
+3502309,Anhembi,Piracicaba,12,
+3502408,Anhumas,Presidente Prudente,6,
+3502507,Aparecida,Taubaté,1,
+3502606,Aparecida d'Oeste,São José do Rio Preto,,9
+3502705,Apiaí,Sorocaba,2,
+3502754,Araçariguama,Sorocaba,12,
+3502804,Araçatuba,Araçatuba,,10
+3502903,Araçoiaba da Serra,Sorocaba,12,
+3503000,Aramina,Franca,,2
+3503109,Arandu,Bauru,,6
+3503158,Arapeí,Taubaté,1,
+3503208,Araraquara,Ribeirão Preto,,16
+3503307,Araras,Piracicaba,,15
+3503356,Arco-Íris,Presidente Prudente,,11
+3503406,Arealva,Bauru,,8
+3503505,Areias,Taubaté,1,
+3503604,Areiópolis,Bauru,,5
+3503703,Ariranha,São José do Rio Preto,,7
+3503802,Artur Nogueira,Campinas,9,
+3503901,Arujá,Grande São Paulo III,8,
+3503950,Aspásia,São José do Rio Preto,,9
+3504008,Assis,Presidente Prudente,7,
+3504107,Atibaia,Campinas,10,
+3504206,Auriflama,São José do Rio Preto,,9
+3504305,Avaí,Bauru,,8
+3504404,Avanhandava,Araçatuba,,10
+3504503,Avaré,Bauru,,6
+3504602,Bady Bassitt,São José do Rio Preto,,7
+3504701,Balbinos,Bauru,,8
+3504800,Bálsamo,São José do Rio Preto,,7
+3504909,Bananal,Taubaté,1,
+3505005,Barão de Antonina,Sorocaba,,6
+3505104,Barbosa,Araçatuba,,10
+3505203,Bariri,Bauru,,5
+3505302,Barra Bonita,Bauru,,5
+3505351,Barra do Chapéu,Sorocaba,2,
+3505401,Barra do Turvo,Vale do Ribeira,2,
+3505500,Barretos,São José do Rio Preto,,4
+3505609,Barrinha,Ribeirão Preto,5,
+3505708,Barueri,Grande São Paulo II,,13
+3505807,Bastos,Presidente Prudente,,11
+3505906,Batatais,Franca,,2
+3506003,Bauru,Bauru,,8
+3506102,Bebedouro,Ribeirão Preto,,4
+3506201,Bento de Abreu,Araçatuba,,10
+3506300,Bernardino de Campos,Bauru,,6
+3506359,Bertioga,Santos,3,
+3506409,Bilac,Araçatuba,,10
+3506508,Birigui,Araçatuba,,10
+3506607,Biritiba-Mirim,Grande São Paulo III,8,
+3506706,Boa Esperança do Sul,Ribeirão Preto,,5
+3506805,Bocaina,Bauru,,5
+3506904,Bofete,Piracicaba,12,
+3507001,Boituva,Sorocaba,12,
+3507100,Bom Jesus dos Perdões,Campinas,10,
+3507159,Bom Sucesso de Itararé,Sorocaba,,6
+3507209,Borá,Presidente Prudente,7,
+3507308,Boracéia,Bauru,,5
+3507407,Borborema,Bauru,,8
+3507456,Borebi,Bauru,,5
+3507506,Botucatu,Bauru,12,
+3507605,Bragança Paulista,Campinas,10,
+3507704,Braúna,Araçatuba,,10
+3507753,Brejo Alegre,Araçatuba,,10
+3507803,Brodowski,Ribeirão Preto,5,
+3507902,Brotas,Piracicaba,,5
+3508009,Buri,Sorocaba,,6
+3508108,Buritama,Araçatuba,,10
+3508207,Buritizal,Franca,,2
+3508306,Cabrália Paulista,Bauru,7,
+3508405,Cabreúva,Sorocaba,12,
+3508504,Caçapava,Taubaté,1,
+3508603,Cachoeira Paulista,Taubaté,1,
+3508702,Caconde,Ribeirão Preto,5,
+3508801,Cafelândia,Araçatuba,,8
+3508900,Caiabu,Presidente Prudente,6,
+3509007,Caieiras,Grande São Paulo II,8,
+3509106,Caiuá,Presidente Prudente,6,
+3509205,Cajamar,Grande São Paulo II,8,
+3509254,Cajati,Vale do Ribeira,2,
+3509304,Cajobi,São José do Rio Preto,,7
+3509403,Cajuru,Ribeirão Preto,5,
+3509452,Campina do Monte Alegre,Sorocaba,,6
+3509502,Campinas,Campinas,9,
+3509601,Campo Limpo Paulista,Grande São Paulo III,9,
+3509700,Campos do Jordão,Taubaté,,1
+3509809,Campos Novos Paulista,Bauru,7,
+3509908,Cananéia,Vale do Ribeira,2,
+3509957,Canas,Taubaté,1,
+3510005,Cândido Mota,Presidente Prudente,7,
+3510104,Cândido Rodrigues,Ribeirão Preto,,8
+3510153,Canitar,Bauru,7,
+3510203,Capão Bonito,Sorocaba,,6
+3510302,Capela do Alto,Sorocaba,12,
+3510401,Capivari,Piracicaba,11,
+3510500,Caraguatatuba,Taubaté,4,
+3510609,Carapicuíba,Grande São Paulo II,,13
+3510708,Cardoso,São José do Rio Preto,,7
+3510807,Casa Branca,Ribeirão Preto,5,
+3510906,Cássia dos Coqueiros,Ribeirão Preto,5,
+3511003,Castilho,Araçatuba,,10
+3511102,Catanduva,São José do Rio Preto,,7
+3511201,Catiguá,São José do Rio Preto,,7
+3511300,Cedral,São José do Rio Preto,,7
+3511409,Cerqueira César,Bauru,,6
+3511508,Cerquilho,Piracicaba,12,
+3511607,Cesário Lange,Sorocaba,12,
+3511706,Charqueada,Piracicaba,11,
+3557204,Chavantes,Bauru,7,
+3511904,Clementina,Araçatuba,,10
+3512001,Colina,São José do Rio Preto,,4
+3512100,Colômbia,São José do Rio Preto,,4
+3512209,Conchal,Campinas,,15
+3512308,Conchas,Piracicaba,12,
+3512407,Cordeirópolis,Piracicaba,11,
+3512506,Coroados,Araçatuba,,10
+3512605,Coronel Macedo,Bauru,,6
+3512704,Corumbataí,Piracicaba,11,
+3512803,Cosmópolis,Campinas,9,
+3512902,Cosmorama,São José do Rio Preto,,7
+3513009,Cotia,Grande São Paulo II,,13
+3513108,Cravinhos,Ribeirão Preto,5,
+3513207,Cristais Paulista,Franca,,2
+3513306,Cruzália,Presidente Prudente,7,
+3513405,Cruzeiro,Taubaté,1,
+3513504,Cubatão,Santos,3,
+3513603,Cunha,Taubaté,1,
+3513702,Descalvado,Ribeirão Preto,,16
+3513801,Diadema,Grande São Paulo I,,12
+3513850,Dirce Reis,São José do Rio Preto,,9
+3513900,Divinolândia,Ribeirão Preto,5,
+3514007,Dobrada,Ribeirão Preto,,8
+3514106,Dois Córregos,Bauru,,5
+3514205,Dolcinópolis,São José do Rio Preto,,7
+3514304,Dourado,Ribeirão Preto,,5
+3514403,Dracena,Presidente Prudente,,11
+3514502,Duartina,Bauru,7,
+3514601,Dumont,Ribeirão Preto,5,
+3514700,Echaporã,Presidente Prudente,7,
+3514809,Eldorado,Vale do Ribeira,2,
+3514908,Elias Fausto,Campinas,9,
+3514924,Elisiário,São José do Rio Preto,,7
+3514957,Embaúba,São José do Rio Preto,,7
+3515004,Embu,Grande São Paulo II,,13
+3515103,Embu-Guaçu,Grande São Paulo II,,13
+3515129,Emilianópolis,Presidente Prudente,6,
+3515152,Engenheiro Coelho,Campinas,9,
+3515186,Espírito Santo do Pinhal,Campinas,,14
+3515194,Espírito Santo do Turvo,Bauru,7,
+3557303,Estiva Gerbi,Campinas,,15
+3515202,Estrela d'Oeste,São José do Rio Preto,,7
+3515301,Estrela do Norte,Presidente Prudente,6,
+3515350,Euclides da Cunha Paulista,Presidente Prudente,6,
+3515400,Fartura,Bauru,,6
+3515608,Fernando Prestes,Ribeirão Preto,,8
+3515509,Fernandópolis,São José do Rio Preto,,7
+3515657,Fernão,Bauru,7,
+3515707,Ferraz de Vasconcelos,Grande São Paulo III,,12
+3515806,Flora Rica,Presidente Prudente,,11
+3515905,Floreal,São José do Rio Preto,,9
+3516002,Flórida Paulista,Presidente Prudente,,11
+3516101,Florínia,Presidente Prudente,7,
+3516200,Franca,Franca,,2
+3516309,Francisco Morato,Grande São Paulo II,8,
+3516408,Franco da Rocha,Grande São Paulo II,8,
+3516507,Gabriel Monteiro,Araçatuba,,10
+3516606,Gália,Bauru,7,
+3516705,Garça,Bauru,,11
+3516804,Gastão Vidigal,São José do Rio Preto,,9
+3516853,Gavião Peixoto,Ribeirão Preto,,16
+3516903,General Salgado,São José do Rio Preto,,9
+3517000,Getulina,Araçatuba,,11
+3517109,Glicério,Araçatuba,,10
+3517208,Guaiçara,Araçatuba,,8
+3517307,Guaimbê,Araçatuba,,11
+3517406,Guaíra,São José do Rio Preto,,4
+3517505,Guapiaçu,São José do Rio Preto,,7
+3517604,Guapiara,Sorocaba,,6
+3517703,Guará,Franca,,2
+3517802,Guaraçaí,Araçatuba,,10
+3517901,Guaraci,São José do Rio Preto,,7
+3518008,Guarani d'Oeste,São José do Rio Preto,,7
+3518107,Guarantã,Araçatuba,,8
+3518206,Guararapes,Araçatuba,,10
+3518305,Guararema,Grande São Paulo III,1,
+3518404,Guaratinguetá,Taubaté,1,
+3518503,Guareí,Sorocaba,12,
+3518602,Guariba,Ribeirão Preto,,16
+3518701,Guarujá,Santos,3,
+3518800,Guarulhos,Grande São Paulo III,8,
+3518859,Guatapará,Ribeirão Preto,5,
+3518909,Guzolândia,São José do Rio Preto,,9
+3519006,Herculândia,Presidente Prudente,,11
+3519055,Holambra,Campinas,9,
+3519071,Hortolândia,Campinas,9,
+3519105,Iacanga,Bauru,,5
+3519204,Iacri,Presidente Prudente,,11
+3519253,Iaras,Bauru,,6
+3519303,Ibaté,Ribeirão Preto,,16
+3519402,Ibirá,São José do Rio Preto,,7
+3519501,Ibirarema,Bauru,7,
+3519600,Ibitinga,Bauru,,5
+3519709,Ibiúna,Sorocaba,12,
+3519808,Icém,São José do Rio Preto,,7
+3519907,Iepê,Presidente Prudente,6,
+3520004,Igaraçu do Tietê,Bauru,,5
+3520103,Igarapava,Franca,,2
+3520202,Igaratá,Grande São Paulo III,1,
+3520301,Iguape,Vale do Ribeira,2,
+3520426,Ilha Comprida,Vale do Ribeira,2,
+3520442,Ilha Solteira,Araçatuba,,9
+3520400,Ilhabela,Taubaté,4,
+3520509,Indaiatuba,Campinas,9,
+3520608,Indiana,Presidente Prudente,6,
+3520707,Indiaporã,São José do Rio Preto,,7
+3520806,Inúbia Paulista,Presidente Prudente,,11
+3520905,Ipaussu,Bauru,,6
+3521002,Iperó,Sorocaba,12,
+3521101,Ipeúna,Piracicaba,11,
+3521150,Ipiguá,São José do Rio Preto,,7
+3521200,Iporanga,Vale do Ribeira,2,
+3521309,Ipuã,Franca,,2
+3521408,Iracemápolis,Piracicaba,11,
+3521507,Irapuã,São José do Rio Preto,,8
+3521606,Irapuru,Presidente Prudente,,11
+3521705,Itaberá,Sorocaba,,6
+3521804,Itaí,Bauru,,6
+3521903,Itajobi,São José do Rio Preto,,8
+3522000,Itaju,Bauru,,5
+3522109,Itanhaém,Santos,3,
+3522158,Itaóca,Sorocaba,2,
+3522208,Itapecerica da Serra,Grande São Paulo II,,13
+3522307,Itapetininga,Sorocaba,,6
+3522406,Itapeva,Sorocaba,,6
+3522505,Itapevi,Grande São Paulo II,,13
+3522604,Itapira,Campinas,,14
+3522653,Itapirapuã Paulista,Sorocaba,2,
+3522703,Itápolis,Bauru,,8
+3522802,Itaporanga,Sorocaba,,6
+3522901,Itapuí,Bauru,,5
+3523008,Itapura,Araçatuba,,9
+3523107,Itaquaquecetuba,Grande São Paulo III,8,
+3523206,Itararé,Sorocaba,,6
+3523305,Itariri,Vale do Ribeira,2,
+3523404,Itatiba,Campinas,9,
+3523503,Itatinga,Bauru,,6
+3523602,Itirapina,Piracicaba,11,
+3523701,Itirapuã,Franca,,2
+3523800,Itobi,Ribeirão Preto,5,
+3523909,Itu,Sorocaba,12,
+3524006,Itupeva,Campinas,9,
+3524105,Ituverava,Franca,,2
+3524204,Jaborandi,São José do Rio Preto,,4
+3524303,Jaboticabal,Ribeirão Preto,,16
+3524402,Jacareí,Taubaté,1,
+3524501,Jaci,São José do Rio Preto,,7
+3524600,Jacupiranga,Vale do Ribeira,2,
+3524709,Jaguariúna,Campinas,9,
+3524808,Jales,São José do Rio Preto,,9
+3524907,Jambeiro,Taubaté,1,
+3525003,Jandira,Grande São Paulo II,,13
+3525102,Jardinópolis,Ribeirão Preto,5,
+3525201,Jarinu,Campinas,10,
+3525300,Jaú,Bauru,,5
+3525409,Jeriquara,Franca,,2
+3525508,Joanópolis,Campinas,10,
+3525607,João Ramalho,Bauru,,11
+3525706,José Bonifácio,São José do Rio Preto,,10
+3525805,Júlio Mesquita,Araçatuba,,8
+3525854,Jumirim,Sorocaba,12,
+3525904,Jundiaí,Campinas,9,
+3526001,Junqueirópolis,Presidente Prudente,,11
+3526100,Juquiá,Vale do Ribeira,2,
+3526209,Juquitiba,Grande São Paulo II,,13
+3526308,Lagoinha,Taubaté,1,
+3526407,Laranjal Paulista,Piracicaba,12,
+3526506,Lavínia,Araçatuba,,10
+3526605,Lavrinhas,Taubaté,1,
+3526704,Leme,Piracicaba,,15
+3526803,Lençóis Paulista,Bauru,,5
+3526902,Limeira,Piracicaba,11,
+3527009,Lindóia,Campinas,,14
+3527108,Lins,Araçatuba,,8
+3527207,Lorena,Taubaté,1,
+3527256,Lourdes,Araçatuba,,10
+3527306,Louveira,Campinas,9,
+3527405,Lucélia,Presidente Prudente,,11
+3527504,Lucianópolis,Bauru,7,
+3527603,Luís Antônio,Ribeirão Preto,5,
+3527702,Luiziânia,Araçatuba,,10
+3527801,Lupércio,Bauru,,11
+3527900,Lutécia,Presidente Prudente,7,
+3528007,Macatuba,Bauru,,5
+3528106,Macaubal,São José do Rio Preto,,10
+3528205,Macedônia,São José do Rio Preto,,7
+3528304,Magda,São José do Rio Preto,,9
+3528403,Mairinque,Sorocaba,12,
+3528502,Mairiporã,Grande São Paulo III,8,
+3528601,Manduri,Bauru,,6
+3528700,Marabá Paulista,Presidente Prudente,6,
+3528809,Maracaí,Presidente Prudente,7,
+3528858,Marapoama,São José do Rio Preto,,8
+3528908,Mariápolis,Presidente Prudente,,11
+3529005,Marília,Bauru,,11
+3529104,Marinópolis,São José do Rio Preto,,9
+3529203,Martinópolis,Presidente Prudente,6,
+3529302,Matão,Ribeirão Preto,,8
+3529401,Mauá,Grande São Paulo I,,12
+3529500,Mendonça,São José do Rio Preto,,10
+3529609,Meridiano,São José do Rio Preto,,7
+3529658,Mesópolis,São José do Rio Preto,,9
+3529708,Miguelópolis,Franca,,2
+3529807,Mineiros do Tietê,Bauru,,5
+3530003,Mira Estrela,São José do Rio Preto,,7
+3529906,Miracatu,Vale do Ribeira,2,
+3530102,Mirandópolis,Araçatuba,,10
+3530201,Mirante do Paranapanema,Presidente Prudente,6,
+3530300,Mirassol,São José do Rio Preto,,7
+3530409,Mirassolândia,São José do Rio Preto,,7
+3530508,Mococa,Ribeirão Preto,5,
+3530706,Mogi Guaçu,Campinas,,15
+3530607,Moji das Cruzes,Grande São Paulo III,8,
+3530805,Moji-Mirim,Campinas,,15
+3530904,Mombuca,Piracicaba,11,
+3531001,Monções,São José do Rio Preto,,9
+3531100,Mongaguá,Santos,3,
+3531209,Monte Alegre do Sul,Campinas,10,
+3531308,Monte Alto,Ribeirão Preto,,7
+3531407,Monte Aprazível,São José do Rio Preto,,9
+3531506,Monte Azul Paulista,São José do Rio Preto,,7
+3531605,Monte Castelo,Presidente Prudente,,11
+3531803,Monte Mor,Campinas,9,
+3531704,Monteiro Lobato,Taubaté,1,
+3531902,Morro Agudo,Franca,,4
+3532009,Morungaba,Campinas,9,
+3532058,Motuca,Ribeirão Preto,,16
+3532108,Murutinga do Sul,Araçatuba,,10
+3532157,Nantes,Presidente Prudente,6,
+3532207,Narandiba,Presidente Prudente,6,
+3532306,Natividade da Serra,Taubaté,1,
+3532405,Nazaré Paulista,Campinas,10,
+3532504,Neves Paulista,São José do Rio Preto,,9
+3532603,Nhandeara,São José do Rio Preto,,9
+3532702,Nipoã,São José do Rio Preto,,9
+3532801,Nova Aliança,São José do Rio Preto,,8
+3532827,Nova Campina,Sorocaba,,6
+3532843,Nova Canaã Paulista,São José do Rio Preto,,9
+3532868,Nova Castilho,São José do Rio Preto,,9
+3532900,Nova Europa,Ribeirão Preto,,16
+3533007,Nova Granada,São José do Rio Preto,,7
+3533106,Nova Guataporanga,Presidente Prudente,,11
+3533205,Nova Independência,Araçatuba,,10
+3533304,Nova Luzitânia,São José do Rio Preto,,9
+3533403,Nova Odessa,Campinas,9,
+3533254,Novais,São José do Rio Preto,,7
+3533502,Novo Horizonte,São José do Rio Preto,,8
+3533601,Nuporanga,Franca,,2
+3533700,Ocauçu,Bauru,,11
+3533809,Óleo,Bauru,,6
+3533908,Olímpia,São José do Rio Preto,,7
+3534005,Onda Verde,São José do Rio Preto,,7
+3534104,Oriente,Bauru,,11
+3534203,Orindiúva,São José do Rio Preto,,7
+3534302,Orlândia,Franca,,4
+3534401,Osasco,Grande São Paulo II,,13
+3534500,Oscar Bressane,Presidente Prudente,7,
+3534609,Osvaldo Cruz,Presidente Prudente,,11
+3534708,Ourinhos,Bauru,7,
+3534807,Ouro Verde,Presidente Prudente,,11
+3534757,Ouroeste,São José do Rio Preto,,7
+3534906,Pacaembu,Presidente Prudente,,11
+3535002,Palestina,São José do Rio Preto,,7
+3535101,Palmares Paulista,São José do Rio Preto,,7
+3535200,Palmeira d'Oeste,São José do Rio Preto,,9
+3535309,Palmital,Bauru,7,
+3535408,Panorama,Presidente Prudente,,11
+3535507,Paraguaçu Paulista,Presidente Prudente,7,
+3535606,Paraibuna,Taubaté,1,
+3535705,Paraíso,São José do Rio Preto,,7
+3535804,Paranapanema,Bauru,,6
+3535903,Paranapuã,São José do Rio Preto,,9
+3536000,Parapuã,Presidente Prudente,,11
+3536109,Pardinho,Bauru,12,
+3536208,Pariquera-Açu,Vale do Ribeira,2,
+3536257,Parisi,São José do Rio Preto,,7
+3536307,Patrocínio Paulista,Franca,,2
+3536406,Paulicéia,Presidente Prudente,,11
+3536505,Paulínia,Campinas,9,
+3536570,Paulistânia,Bauru,7,
+3536604,Paulo de Faria,São José do Rio Preto,,7
+3536703,Pederneiras,Bauru,,5
+3536802,Pedra Bela,Campinas,10,
+3536901,Pedranópolis,São José do Rio Preto,,7
+3537008,Pedregulho,Franca,,2
+3537107,Pedreira,Campinas,9,
+3537156,Pedrinhas Paulista,Presidente Prudente,7,
+3537206,Pedro de Toledo,Vale do Ribeira,2,
+3537305,Penápolis,Araçatuba,,10
+3537404,Pereira Barreto,Araçatuba,,10
+3537503,Pereiras,Piracicaba,12,
+3537602,Peruíbe,Santos,3,
+3537701,Piacatu,Araçatuba,,10
+3537800,Piedade,Sorocaba,12,
+3537909,Pilar do Sul,Sorocaba,,6
+3538006,Pindamonhangaba,Taubaté,1,
+3538105,Pindorama,São José do Rio Preto,,7
+3538204,Pinhalzinho,Campinas,10,
+3538303,Piquerobi,Presidente Prudente,6,
+3538501,Piquete,Taubaté,1,
+3538600,Piracaia,Campinas,10,
+3538709,Piracicaba,Piracicaba,11,
+3538808,Piraju,Bauru,,6
+3538907,Pirajuí,Bauru,,8
+3539004,Pirangi,Ribeirão Preto,,7
+3539103,Pirapora do Bom Jesus,Grande São Paulo II,,13
+3539202,Pirapozinho,Presidente Prudente,6,
+3539301,Pirassununga,Ribeirão Preto,,15
+3539400,Piratininga,Bauru,7,
+3539509,Pitangueiras,Ribeirão Preto,,16
+3539608,Planalto,Araçatuba,,10
+3539707,Platina,Bauru,7,
+3539806,Poá,Grande São Paulo III,8,
+3539905,Poloni,São José do Rio Preto,,9
+3540002,Pompéia,Bauru,,11
+3540101,Pongaí,Bauru,,8
+3540200,Pontal,Ribeirão Preto,5,
+3540259,Pontalinda,São José do Rio Preto,,9
+3540309,Pontes Gestal,São José do Rio Preto,,7
+3540408,Populina,São José do Rio Preto,,7
+3540507,Porangaba,Piracicaba,12,
+3540606,Porto Feliz,Sorocaba,12,
+3540705,Porto Ferreira,Ribeirão Preto,,15
+3540754,Potim,Taubaté,1,
+3540804,Potirendaba,São José do Rio Preto,,8
+3540853,Pracinha,Presidente Prudente,,11
+3540903,Pradópolis,Ribeirão Preto,,16
+3541000,Praia Grande,Santos,3,
+3541059,Pratânia,Bauru,,5
+3541109,Presidente Alves,Bauru,,8
+3541208,Presidente Bernardes,Presidente Prudente,6,
+3541307,Presidente Epitácio,Presidente Prudente,6,
+3541406,Presidente Prudente,Presidente Prudente,6,
+3541505,Presidente Venceslau,Presidente Prudente,6,
+3541604,Promissão,Araçatuba,,10
+3541653,Quadra,Sorocaba,12,
+3541703,Quatá,Bauru,,11
+3541802,Queiroz,Presidente Prudente,,11
+3541901,Queluz,Taubaté,1,
+3542008,Quintana,Bauru,,11
+3542107,Rafard,Piracicaba,11,
+3542206,Rancharia,Presidente Prudente,6,
+3542305,Redenção da Serra,Taubaté,1,
+3542404,Regente Feijó,Presidente Prudente,6,
+3542503,Reginópolis,Bauru,,8
+3542602,Registro,Vale do Ribeira,2,
+3542701,Restinga,Franca,,2
+3542800,Ribeira,Sorocaba,2,
+3542909,Ribeirão Bonito,Ribeirão Preto,,5
+3543006,Ribeirão Branco,Sorocaba,,6
+3543105,Ribeirão Corrente,Franca,,2
+3543204,Ribeirão do Sul,Bauru,7,
+3543238,Ribeirão dos Índios,Presidente Prudente,6,
+3543253,Ribeirão Grande,Sorocaba,,6
+3543303,Ribeirão Pires,Grande São Paulo I,,12
+3543402,Ribeirão Preto,Ribeirão Preto,5,
+3543600,Rifaina,Franca,,2
+3543709,Rincão,Ribeirão Preto,,16
+3543808,Rinópolis,Presidente Prudente,,11
+3543907,Rio Claro,Piracicaba,11,
+3544004,Rio das Pedras,Piracicaba,11,
+3544103,Rio Grande da Serra,Grande São Paulo I,,12
+3544202,Riolândia,São José do Rio Preto,,7
+3543501,Riversul,Sorocaba,,6
+3544251,Rosana,Presidente Prudente,6,
+3544301,Roseira,Taubaté,1,
+3544400,Rubiácea,Araçatuba,,10
+3544509,Rubinéia,São José do Rio Preto,,9
+3544608,Sabino,Araçatuba,,8
+3544707,Sagres,Presidente Prudente,,11
+3544806,Sales,São José do Rio Preto,,8
+3544905,Sales Oliveira,Franca,,2
+3545001,Salesópolis,Grande São Paulo III,8,
+3545100,Salmourão,Presidente Prudente,,11
+3545159,Saltinho,Piracicaba,11,
+3545209,Salto,Sorocaba,12,
+3545308,Salto de Pirapora,Sorocaba,12,
+3545407,Salto Grande,Bauru,7,
+3545506,Sandovalina,Presidente Prudente,6,
+3545605,Santa Adélia,São José do Rio Preto,,7
+3545704,Santa Albertina,São José do Rio Preto,,9
+3545803,Santa Bárbara D'Oeste,Piracicaba,11,
+3546009,Santa Branca,Taubaté,1,
+3546108,Santa Clara d'Oeste,São José do Rio Preto,,9
+3546207,Santa Cruz da Conceição,Piracicaba,,15
+3546256,Santa Cruz da Esperança,Ribeirão Preto,5,
+3546306,Santa Cruz das Palmeiras,Ribeirão Preto,,15
+3546405,Santa Cruz do Rio Pardo,Bauru,7,
+3546504,Santa Ernestina,Ribeirão Preto,,8
+3546603,Santa Fé do Sul,São José do Rio Preto,,9
+3546702,Santa Gertrudes,Piracicaba,11,
+3546801,Santa Isabel,Grande São Paulo III,1,
+3546900,Santa Lúcia,Ribeirão Preto,,16
+3547007,Santa Maria da Serra,Piracicaba,11,
+3547106,Santa Mercedes,Presidente Prudente,,11
+3547403,Santa Rita d'Oeste,São José do Rio Preto,,9
+3547502,Santa Rita do Passa Quatro,Ribeirão Preto,,16
+3547601,Santa Rosa de Viterbo,Ribeirão Preto,5,
+3547650,Santa Salete,São José do Rio Preto,,9
+3547205,Santana da Ponte Pensa,São José do Rio Preto,,9
+3547304,Santana de Parnaíba,Grande São Paulo II,,13
+3547700,Santo Anastácio,Presidente Prudente,6,
+3547809,Santo André,Grande São Paulo I,,12
+3547908,Santo Antônio da Alegria,Franca,5,
+3548005,Santo Antônio de Posse,Campinas,9,
+3548054,Santo Antônio do Aracanguá,Araçatuba,,10
+3548104,Santo Antônio do Jardim,Campinas,,14
+3548203,Santo Antônio do Pinhal,Taubaté,,1
+3548302,Santo Expedito,Presidente Prudente,6,
+3548401,Santópolis do Aguapeí,Araçatuba,,10
+3548500,Santos,Santos,3,
+3548609,São Bento do Sapucaí,Taubaté,,1
+3548708,São Bernardo do Campo,Grande São Paulo I,,12
+3548807,São Caetano do Sul,Grande São Paulo I,,12
+3548906,São Carlos,Ribeirão Preto,,16
+3549003,São Francisco,São José do Rio Preto,,9
+3549102,São João da Boa Vista,Campinas,,14
+3549201,São João das Duas Pontes,São José do Rio Preto,,7
+3549250,São João de Iracema,São José do Rio Preto,,9
+3549300,São João do Pau d'Alho,Presidente Prudente,,11
+3549409,São Joaquim da Barra,Franca,,2
+3549508,São José da Bela Vista,Franca,,2
+3549607,São José do Barreiro,Taubaté,1,
+3549706,São José do Rio Pardo,Ribeirão Preto,5,
+3549805,São José do Rio Preto,São José do Rio Preto,,7
+3549904,São José dos Campos,Taubaté,1,
+3549953,São Lourenço da Serra,Grande São Paulo II,,13
+3550001,São Luís do Paraitinga,Taubaté,1,
+3550100,São Manuel,Bauru,,5
+3550209,São Miguel Arcanjo,Sorocaba,,6
+3550308,São Paulo,Capital (Entrância Especial),,12
+3550407,São Pedro,Piracicaba,11,
+3550506,São Pedro do Turvo,Bauru,7,
+3550605,São Roque,Sorocaba,12,
+3550704,São Sebastião,Taubaté,4,
+3550803,São Sebastião da Grama,Ribeirão Preto,5,
+3550902,São Simão,Ribeirão Preto,5,
+3551009,São Vicente,Santos,3,
+3551108,Sarapuí,Sorocaba,,6
+3551207,Sarutaiá,Bauru,,6
+3551306,Sebastianópolis do Sul,São José do Rio Preto,,9
+3551405,Serra Azul,Ribeirão Preto,5,
+3551603,Serra Negra,Campinas,,14
+3551504,Serrana,Ribeirão Preto,5,
+3551702,Sertãozinho,Ribeirão Preto,5,
+3551801,Sete Barras,Vale do Ribeira,2,
+3551900,Severínia,São José do Rio Preto,,7
+3552007,Silveiras,Taubaté,1,
+3552106,Socorro,Campinas,,14
+3552205,Sorocaba,Sorocaba,12,
+3552304,Sud Mennucci,Araçatuba,,10
+3552403,Sumaré,Campinas,9,
+3552551,Suzanápolis,Araçatuba,,10
+3552502,Suzano,Grande São Paulo III,8,
+3552601,Tabapuã,São José do Rio Preto,,7
+3552700,Tabatinga,Bauru,,5
+3552809,Taboão da Serra,Grande São Paulo II,,13
+3552908,Taciba,Presidente Prudente,6,
+3553005,Taguaí,Bauru,,6
+3553104,Taiaçu,Ribeirão Preto,,16
+3553203,Taiúva,Ribeirão Preto,,16
+3553302,Tambaú,Ribeirão Preto,5,
+3553401,Tanabi,São José do Rio Preto,,7
+3553500,Tapiraí,Sorocaba,12,
+3553609,Tapiratiba,Ribeirão Preto,5,
+3553658,Taquaral,Ribeirão Preto,,16
+3553708,Taquaritinga,Ribeirão Preto,,8
+3553807,Taquarituba,Bauru,,6
+3553856,Taquarivaí,Sorocaba,,6
+3553906,Tarabai,Presidente Prudente,6,
+3553955,Tarumã,Presidente Prudente,7,
+3554003,Tatuí,Sorocaba,12,
+3554102,Taubaté,Taubaté,1,
+3554201,Tejupá,Bauru,,6
+3554300,Teodoro Sampaio,Presidente Prudente,6,
+3554409,Terra Roxa,Ribeirão Preto,,4
+3554508,Tietê,Sorocaba,12,
+3554607,Timburi,Bauru,,6
+3554656,Torre de Pedra,Piracicaba,12,
+3554706,Torrinha,Piracicaba,,5
+3554755,Trabiju,Ribeirão Preto,,5
+3554805,Tremembé,Taubaté,1,
+3554904,Três Fronteiras,São José do Rio Preto,,9
+3554953,Tuiuti,Campinas,10,
+3555000,Tupã,Presidente Prudente,,11
+3555109,Tupi Paulista,Presidente Prudente,,11
+3555208,Turiúba,Araçatuba,,10
+3555307,Turmalina,São José do Rio Preto,,7
+3555356,Ubarana,São José do Rio Preto,,10
+3555406,Ubatuba,Taubaté,4,
+3555505,Ubirajara,Bauru,7,
+3555604,Uchoa,São José do Rio Preto,,7
+3555703,União Paulista,São José do Rio Preto,,9
+3555802,Urânia,São José do Rio Preto,,9
+3555901,Uru,Bauru,,8
+3556008,Urupês,São José do Rio Preto,,8
+3556107,Valentim Gentil,São José do Rio Preto,,7
+3556206,Valinhos,Campinas,9,
+3556305,Valparaíso,Araçatuba,,10
+3556354,Vargem,Campinas,10,
+3556404,Vargem Grande do Sul,Campinas,5,
+3556453,Vargem Grande Paulista,Grande São Paulo II,,13
+3556503,Várzea Paulista,Campinas,9,
+3556602,Vera Cruz,Bauru,,11
+3556701,Vinhedo,Campinas,9,
+3556800,Viradouro,Ribeirão Preto,,4
+3556909,Vista Alegre do Alto,Ribeirão Preto,,7
+3556958,Vitória Brasil,São José do Rio Preto,,9
+3557006,Votorantim,Sorocaba,12,
+3557105,Votuporanga,São José do Rio Preto,,7
+3557154,Zacarias,Araçatuba,,10
