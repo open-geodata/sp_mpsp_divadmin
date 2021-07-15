@@ -1,0 +1,646 @@
+id_municipio,municipio_nome,pj_id,ar_id
+3500105,Adamantina,adamantina,presidente prudente
+3500204,Adolfo,jose bonifacio,sao jose do rio preto
+3500303,Aguaí,aguai,campinas
+3500402,Águas da Prata,sao joao da boa vista,campinas
+3500501,Águas de Lindóia,aguas de lindoia,campinas
+3500550,Águas de Santa Bárbara,cerqueira cesar,bauru
+3500600,Águas de São Pedro,sao pedro,piracicaba
+3500709,Agudos,agudos,bauru
+3500758,Alambari,itapetininga,sorocaba
+3500808,Alfredo Marcondes,presidente prudente,presidente prudente
+3500907,Altair,olimpia,sao jose do rio preto
+3501004,Altinópolis,altinopolis,franca
+3501103,Alto Alegre,penapolis,aracatuba
+3501152,Alumínio,mairinque,sorocaba
+3501202,Álvares Florence,votuporanga,sao jose do rio preto
+3501301,Álvares Machado,presidente prudente,presidente prudente
+3501400,Álvaro de Carvalho,garca,bauru
+3501509,Alvinlândia,garca,bauru
+3501608,Americana,americana,piracicaba
+3501707,Américo Brasiliense,americo brasiliense,ribeirao preto
+3501806,Américo de Campos,tanabi,sao jose do rio preto
+3501905,Amparo,amparo,campinas
+3502002,Analândia,itirapina,piracicaba
+3502101,Andradina,andradina,aracatuba
+3502200,Angatuba,angatuba,sorocaba
+3502309,Anhembi,conchas,piracicaba
+3502408,Anhumas,presidente prudente,presidente prudente
+3502507,Aparecida,aparecida,taubate
+3502606,Aparecida d'Oeste,palmeira d'oeste,sao jose do rio preto
+3502705,Apiaí,apiai,sorocaba
+3502754,Araçariguama,sao roque,sorocaba
+3502804,Araçatuba,aracatuba,aracatuba
+3502903,Araçoiaba da Serra,sorocaba,sorocaba
+3503000,Aramina,igarapava,franca
+3503109,Arandu,avare,bauru
+3503158,Arapeí,bananal,taubate
+3503208,Araraquara,araraquara,ribeirao preto
+3503307,Araras,araras,piracicaba
+3503356,Arco-Íris,tupa,presidente prudente
+3503406,Arealva,bauru,bauru
+3503505,Areias,queluz,taubate
+3503604,Areiópolis,sao manuel,bauru
+3503703,Ariranha,santa adelia,sao jose do rio preto
+3503802,Artur Nogueira,artur nogueira,campinas
+3503901,Arujá,aruja,grande sao paulo
+3503950,Aspásia,urania,sao jose do rio preto
+3504008,Assis,assis,presidente prudente
+3504107,Atibaia,atibaia,campinas
+3504206,Auriflama,auriflama,sao jose do rio preto
+3504305,Avaí,bauru,bauru
+3504404,Avanhandava,penapolis,aracatuba
+3504503,Avaré,avare,bauru
+3504602,Bady Bassitt,sao jose do rio preto,sao jose do rio preto
+3504701,Balbinos,pirajui,bauru
+3504800,Bálsamo,mirassol,sao jose do rio preto
+3504909,Bananal,bananal,taubate
+3505005,Barão de Antonina,itaporanga,sorocaba
+3505104,Barbosa,penapolis,aracatuba
+3505203,Bariri,bariri,bauru
+3505302,Barra Bonita,barra bonita,bauru
+3505351,Barra do Chapéu,apiai,sorocaba
+3505401,Barra do Turvo,jacupiranga,vale do ribeira
+3505500,Barretos,barretos,sao jose do rio preto
+3505609,Barrinha,sertaozinho,ribeirao preto
+3505708,Barueri,barueri,grande sao paulo
+3505807,Bastos,bastos,presidente prudente
+3505906,Batatais,batatais,franca
+3506003,Bauru,bauru,bauru
+3506102,Bebedouro,bebedouro,ribeirao preto
+3506201,Bento de Abreu,valparaiso,aracatuba
+3506300,Bernardino de Campos,ipaussu,bauru
+3506359,Bertioga,bertioga,santos
+3506409,Bilac,bilac,aracatuba
+3506508,Birigui,birigui,aracatuba
+3506607,Biritiba-Mirim,mogi das cruzes,grande sao paulo
+3506706,Boa Esperança do Sul,ribeirao bonito,ribeirao preto
+3506805,Bocaina,jau,bauru
+3506904,Bofete,porangaba,sorocaba
+3507001,Boituva,boituva,sorocaba
+3507100,Bom Jesus dos Perdões,nazare paulista,campinas
+3507159,Bom Sucesso de Itararé,itarare,sorocaba
+3507209,Borá,paraguacu paulista,presidente prudente
+3507308,Boracéia,pederneiras,bauru
+3507407,Borborema,borborema,bauru
+3507456,Borebi,lencois paulista,bauru
+3507506,Botucatu,botucatu,bauru
+3507605,Bragança Paulista,braganca paulista,campinas
+3507704,Braúna,penapolis,aracatuba
+3507753,Brejo Alegre,birigui,aracatuba
+3507803,Brodowski,brodowski,ribeirao preto
+3507902,Brotas,brotas,piracicaba
+3508009,Buri,buri,sorocaba
+3508108,Buritama,buritama,aracatuba
+3508207,Buritizal,igarapava,franca
+3508306,Cabrália Paulista,duartina,bauru
+3508405,Cabreúva,cabreuva,sorocaba
+3508504,Caçapava,cacapava,taubate
+3508603,Cachoeira Paulista,cachoeira paulista,taubate
+3508702,Caconde,caconde,ribeirao preto
+3508801,Cafelândia,cafelandia,aracatuba
+3508900,Caiabu,regente feijo,presidente prudente
+3509007,Caieiras,caieiras,grande sao paulo
+3509106,Caiuá,presidente epitacio,presidente prudente
+3509205,Cajamar,cajamar,grande sao paulo
+3509254,Cajati,jacupiranga,vale do ribeira
+3509304,Cajobi,olimpia,sao jose do rio preto
+3509403,Cajuru,cajuru,ribeirao preto
+3509452,Campina do Monte Alegre,angatuba,sorocaba
+3509502,Campinas,campinas,campinas
+3509601,Campo Limpo Paulista,campo limpo paulista,grande sao paulo
+3509700,Campos do Jordão,campos do jordao,taubate
+3509809,Campos Novos Paulista,palmital,bauru
+3509908,Cananéia,cananeia,vale do ribeira
+3509957,Canas,lorena,taubate
+3510005,Cândido Mota,candido mota,presidente prudente
+3510104,Cândido Rodrigues,taquaritinga,ribeirao preto
+3510153,Canitar,chavantes,bauru
+3510203,Capão Bonito,capao bonito,sorocaba
+3510302,Capela do Alto,tatui,sorocaba
+3510401,Capivari,capivari,piracicaba
+3510500,Caraguatatuba,caraguatatuba,taubate
+3510609,Carapicuíba,carapicuiba,grande sao paulo
+3510708,Cardoso,cardoso,sao jose do rio preto
+3510807,Casa Branca,casa branca,ribeirao preto
+3510906,Cássia dos Coqueiros,cajuru,ribeirao preto
+3511003,Castilho,andradina,aracatuba
+3511102,Catanduva,catanduva,sao jose do rio preto
+3511201,Catiguá,tabapua,sao jose do rio preto
+3511300,Cedral,sao jose do rio preto,sao jose do rio preto
+3511409,Cerqueira César,cerqueira cesar,bauru
+3511508,Cerquilho,cerquilho,piracicaba
+3511607,Cesário Lange,cesario lange,sorocaba
+3511706,Charqueada,piracicaba,piracicaba
+3557204,Chavantes,chavantes,bauru
+3511904,Clementina,birigui,aracatuba
+3512001,Colina,colina,sao jose do rio preto
+3512100,Colômbia,barretos,sao jose do rio preto
+3512209,Conchal,conchal,campinas
+3512308,Conchas,conchas,piracicaba
+3512407,Cordeirópolis,cordeiropolis,piracicaba
+3512506,Coroados,birigui,aracatuba
+3512605,Coronel Macedo,taquarituba,sorocaba
+3512704,Corumbataí,rio claro,piracicaba
+3512803,Cosmópolis,cosmopolis,campinas
+3512902,Cosmorama,tanabi,sao jose do rio preto
+3513009,Cotia,cotia,grande sao paulo
+3513108,Cravinhos,cravinhos,ribeirao preto
+3513207,Cristais Paulista,franca,franca
+3513306,Cruzália,maracai,presidente prudente
+3513405,Cruzeiro,cruzeiro,taubate
+3513504,Cubatão,cubatao,santos
+3513603,Cunha,cunha,taubate
+3513702,Descalvado,descalvado,ribeirao preto
+3513801,Diadema,diadema,grande sao paulo
+3513850,Dirce Reis,jales,sao jose do rio preto
+3513900,Divinolândia,sao sebastiao da grama,ribeirao preto
+3514007,Dobrada,matao,ribeirao preto
+3514106,Dois Córregos,dois corregos,bauru
+3514205,Dolcinópolis,estrela doeste,sao jose do rio preto
+3514304,Dourado,ribeirao bonito,ribeirao preto
+3514403,Dracena,dracena,presidente prudente
+3514502,Duartina,duartina,bauru
+3514601,Dumont,sertaozinho,ribeirao preto
+3514700,Echaporã,assis,presidente prudente
+3514809,Eldorado,eldorado,vale do ribeira
+3514908,Elias Fausto,monte mor,campinas
+3514924,Elisiário,catanduva,sao jose do rio preto
+3514957,Embaúba,olimpia,sao jose do rio preto
+3515004,Embu das Artes,embu das artes,grande sao paulo
+3515103,Embu-Guaçu,embu guacu,grande sao paulo
+3515129,Emilianópolis,presidente bernardes,presidente prudente
+3515152,Engenheiro Coelho,artur nogueira,campinas
+3515186,Espírito Santo do Pinhal,espirito santo do pinhal,campinas
+3515194,Espírito Santo do Turvo,santa cruz do rio pardo,bauru
+3557303,Estiva Gerbi,mogi guacu,campinas
+3515301,Estrela do Norte,pirapozinho,presidente prudente
+3515202,Estrela d'Oeste,estrela d'oeste,sao jose do rio preto
+3515350,Euclides da Cunha Paulista,teodoro sampaio,presidente prudente
+3515400,Fartura,fartura,bauru
+3515608,Fernando Prestes,taquaritinga,ribeirao preto
+3515509,Fernandópolis,fernandopolis,sao jose do rio preto
+3515657,Fernão,galia,bauru
+3515707,Ferraz de Vasconcelos,ferraz de vasconcelos,grande sao paulo
+3515806,Flora Rica,pacaembu,presidente prudente
+3515905,Floreal,nhandeara,sao jose do rio preto
+3516002,Flórida Paulista,florida paulista,presidente prudente
+3516101,Florínia,assis,presidente prudente
+3516200,Franca,franca,franca
+3516309,Francisco Morato,francisco morato,grande sao paulo
+3516408,Franco da Rocha,franco da rocha,grande sao paulo
+3516507,Gabriel Monteiro,bilac,aracatuba
+3516606,Gália,galia,bauru
+3516705,Garça,garca,bauru
+3516804,Gastão Vidigal,nhandeara,sao jose do rio preto
+3516853,Gavião Peixoto,araraquara,ribeirao preto
+3516903,General Salgado,general salgado,sao jose do rio preto
+3517000,Getulina,getulina,aracatuba
+3517109,Glicério,penapolis,aracatuba
+3517208,Guaiçara,lins,aracatuba
+3517307,Guaimbê,getulina,aracatuba
+3517406,Guaíra,guaira,sao jose do rio preto
+3517505,Guapiaçu,sao jose do rio preto,sao jose do rio preto
+3517604,Guapiara,capao bonito,sorocaba
+3517703,Guará,guara,franca
+3517802,Guaraçaí,mirandopolis,aracatuba
+3517901,Guaraci,olimpia,sao jose do rio preto
+3518008,Guarani d'Oeste,ouroeste,sao jose do rio preto
+3518107,Guarantã,cafelandia,aracatuba
+3518206,Guararapes,guararapes,aracatuba
+3518305,Guararema,guararema,grande sao paulo
+3518404,Guaratinguetá,guaratingueta,taubate
+3518503,Guareí,porangaba,sorocaba
+3518602,Guariba,guariba,ribeirao preto
+3518701,Guarujá,guaruja,santos
+3518800,Guarulhos,guarulhos,grande sao paulo
+3518859,Guatapará,ribeirao preto,ribeirao preto
+3518909,Guzolândia,auriflama,sao jose do rio preto
+3519006,Herculândia,tupa,presidente prudente
+3519055,Holambra,artur nogueira,campinas
+3519071,Hortolândia,hortolandia,campinas
+3519105,Iacanga,iacanga,bauru
+3519204,Iacri,bastos,presidente prudente
+3519253,Iaras,cerqueira cesar,bauru
+3519303,Ibaté,ibate,ribeirao preto
+3519402,Ibirá,catanduva,sao jose do rio preto
+3519501,Ibirarema,palmital,bauru
+3519600,Ibitinga,ibitinga,bauru
+3519709,Ibiúna,ibiuna,sorocaba
+3519808,Icém,nova granada,sao jose do rio preto
+3519907,Iepê,iepe,presidente prudente
+3520004,Igaraçu do Tietê,barra bonita,bauru
+3520103,Igarapava,igarapava,franca
+3520202,Igaratá,santa isabel,grande sao paulo
+3520301,Iguape,iguape,vale do ribeira
+3520426,Ilha Comprida,iguape,vale do ribeira
+3520442,Ilha Solteira,ilha solteira,aracatuba
+3520400,Ilhabela,ilhabela,taubate
+3520509,Indaiatuba,indaiatuba,campinas
+3520608,Indiana,martinopolis,presidente prudente
+3520707,Indiaporã,ouroeste,sao jose do rio preto
+3520806,Inúbia Paulista,lucelia,presidente prudente
+3520905,Ipaussu,ipaussu,bauru
+3521002,Iperó,boituva,sorocaba
+3521101,Ipeúna,rio claro,piracicaba
+3521150,Ipiguá,sao jose do rio preto,sao jose do rio preto
+3521200,Iporanga,eldorado,vale do ribeira
+3521309,Ipuã,ipua,franca
+3521408,Iracemápolis,limeira,piracicaba
+3521507,Irapuã,urupes,sao jose do rio preto
+3521606,Irapuru,pacaembu,presidente prudente
+3521705,Itaberá,itabera,sorocaba
+3521804,Itaí,itai,bauru
+3521903,Itajobi,itajobi,sao jose do rio preto
+3522000,Itaju,bariri,bauru
+3522109,Itanhaém,itanhaem,santos
+3522158,Itaóca,apiai,sorocaba
+3522208,Itapecerica da Serra,itapecerica da serra,grande sao paulo
+3522307,Itapetininga,itapetininga,sorocaba
+3522406,Itapeva,itapeva,sorocaba
+3522505,Itapevi,itapevi,grande sao paulo
+3522604,Itapira,itapira,campinas
+3522653,Itapirapuã Paulista,apiai,sorocaba
+3522703,Itápolis,itapolis,bauru
+3522802,Itaporanga,itaporanga,sorocaba
+3522901,Itapuí,jau,bauru
+3523008,Itapura,ilha solteira,aracatuba
+3523107,Itaquaquecetuba,itaquaquecetuba,grande sao paulo
+3523206,Itararé,itarare,sorocaba
+3523305,Itariri,itariri,vale do ribeira
+3523404,Itatiba,itatiba,campinas
+3523503,Itatinga,itatinga,bauru
+3523602,Itirapina,itirapina,piracicaba
+3523701,Itirapuã,patrocinio paulista,franca
+3523800,Itobi,casa branca,ribeirao preto
+3523909,Itu,itu,sorocaba
+3524006,Itupeva,jundiai,sorocaba
+3524105,Ituverava,ituverava,franca
+3524204,Jaborandi,colina,sao jose do rio preto
+3524303,Jaboticabal,jaboticabal,ribeirao preto
+3524402,Jacareí,jacarei,taubate
+3524501,Jaci,mirassol,sao jose do rio preto
+3524600,Jacupiranga,jacupiranga,vale do ribeira
+3524709,Jaguariúna,jaguariuna,campinas
+3524808,Jales,jales,sao jose do rio preto
+3524907,Jambeiro,cacapava,taubate
+3525003,Jandira,jandira,grande sao paulo
+3525102,Jardinópolis,jardinopolis,ribeirao preto
+3525201,Jarinu,jarinu,campinas
+3525300,Jaú,jau,bauru
+3525409,Jeriquara,pedregulho,franca
+3525508,Joanópolis,piracaia,campinas
+3525607,João Ramalho,quata,presidente prudente
+3525706,José Bonifácio,jose bonifacio,sao jose do rio preto
+3525805,Júlio Mesquita,cafelandia,aracatuba
+3525854,Jumirim,tiete,sorocaba
+3525904,Jundiaí,jundiai,campinas
+3526001,Junqueirópolis,junqueiropolis,presidente prudente
+3526100,Juquiá,juquia,vale do ribeira
+3526209,Juquitiba,itapecerica da serra,grande sao paulo
+3526308,Lagoinha,sao luiz do paraitinga,taubate
+3526407,Laranjal Paulista,laranjal paulista,piracicaba
+3526506,Lavínia,mirandopolis,aracatuba
+3526605,Lavrinhas,cruzeiro,taubate
+3526704,Leme,leme,piracicaba
+3526803,Lençóis Paulista,lencois paulista,bauru
+3526902,Limeira,limeira,piracicaba
+3527009,Lindóia,aguas de lindoia,campinas
+3527108,Lins,lins,aracatuba
+3527207,Lorena,lorena,taubate
+3527256,Lourdes,buritama,aracatuba
+3527306,Louveira,louveira,sorocaba
+3527405,Lucélia,lucelia,presidente prudente
+3527504,Lucianópolis,duartina,bauru
+3527603,Luís Antônio,sao simao,ribeirao preto
+3527702,Luiziânia,penapolis,aracatuba
+3527801,Lupércio,garca,bauru
+3527900,Lutécia,paraguacu paulista,presidente prudente
+3528007,Macatuba,macatuba,bauru
+3528106,Macaubal,macaubal,sao jose do rio preto
+3528205,Macedônia,fernandopolis,sao jose do rio preto
+3528304,Magda,nhandeara,sao jose do rio preto
+3528403,Mairinque,mairinque,sorocaba
+3528502,Mairiporã,mairipora,grande sao paulo
+3528601,Manduri,piraju,bauru
+3528700,Marabá Paulista,presidente venceslau,presidente prudente
+3528809,Maracaí,maracai,presidente prudente
+3528858,Marapoama,itajobi,sao jose do rio preto
+3528908,Mariápolis,adamantina,presidente prudente
+3529005,Marília,marilia,bauru
+3529104,Marinópolis,palmeira doeste,sao jose do rio preto
+3529203,Martinópolis,martinopolis,presidente prudente
+3529302,Matão,matao,ribeirao preto
+3529401,Mauá,maua,grande sao paulo
+3529500,Mendonça,jose bonifacio,sao jose do rio preto
+3529609,Meridiano,fernandopolis,sao jose do rio preto
+3529658,Mesópolis,jales,sao jose do rio preto
+3529708,Miguelópolis,miguelopolis,franca
+3529807,Mineiros do Tietê,jau,bauru
+3530003,Mira Estrela,cardoso,sao jose do rio preto
+3529906,Miracatu,miracatu,vale do ribeira
+3530102,Mirandópolis,mirandopolis,aracatuba
+3530201,Mirante do Paranapanema,mirante do paranapanema,presidente prudente
+3530300,Mirassol,mirassol,sao jose do rio preto
+3530409,Mirassolândia,mirassol,sao jose do rio preto
+3530508,Mococa,mococa,ribeirao preto
+3530706,Mogi Guaçu,mogi guacu,campinas
+3530607,Mogi das Cruzes,mogi das cruzes,grande sao paulo
+3530805,Mogi Mirim,mogi mirim,campinas
+3530904,Mombuca,capivari,piracicaba
+3531001,Monções,nhandeara,sao jose do rio preto
+3531100,Mongaguá,mongagua,santos
+3531209,Monte Alegre do Sul,amparo,campinas
+3531308,Monte Alto,monte alto,ribeirao preto
+3531407,Monte Aprazível,monte aprazivel,sao jose do rio preto
+3531506,Monte Azul Paulista,monte azul paulista,ribeirao preto
+3531605,Monte Castelo,tupi paulista,presidente prudente
+3531803,Monte Mor,monte mor,campinas
+3531704,Monteiro Lobato,sao jose dos campos,taubate
+3531902,Morro Agudo,morro agudo,franca
+3532009,Morungaba,itatiba,campinas
+3532058,Motuca,americo brasiliense,ribeirao preto
+3532108,Murutinga do Sul,andradina,aracatuba
+3532157,Nantes,iepe,presidente prudente
+3532207,Narandiba,pirapozinho,presidente prudente
+3532306,Natividade da Serra,paraibuna,taubate
+3532405,Nazaré Paulista,nazare paulista,campinas
+3532504,Neves Paulista,neves paulista,sao jose do rio preto
+3532603,Nhandeara,nhandeara,sao jose do rio preto
+3532702,Nipoã,monte aprazivel,sao jose do rio preto
+3532801,Nova Aliança,potirendaba,sao jose do rio preto
+3532827,Nova Campina,itapeva,sorocaba
+3532843,Nova Canaã Paulista,santa fe do sul,sao jose do rio preto
+3532868,Nova Castilho,general salgado,sao jose do rio preto
+3532900,Nova Europa,araraquara,ribeirao preto
+3533007,Nova Granada,nova granada,sao jose do rio preto
+3533106,Nova Guataporanga,tupi paulista,presidente prudente
+3533205,Nova Independência,andradina,aracatuba
+3533304,Nova Luzitânia,nhandeara,sao jose do rio preto
+3533403,Nova Odessa,nova odessa,campinas
+3533254,Novais,tabapua,sao jose do rio preto
+3533502,Novo Horizonte,novo horizonte,sao jose do rio preto
+3533601,Nuporanga,nuporanga,franca
+3533700,Ocauçu,marilia,bauru
+3533809,Óleo,piraju,bauru
+3533908,Olímpia,olimpia,sao jose do rio preto
+3534005,Onda Verde,nova granada,sao jose do rio preto
+3534104,Oriente,pompeia,bauru
+3534203,Orindiúva,paulo de faria,sao jose do rio preto
+3534302,Orlândia,orlandia,franca
+3534401,Osasco,osasco,grande sao paulo
+3534500,Oscar Bressane,paraguacu paulista,presidente prudente
+3534609,Osvaldo Cruz,osvaldo cruz,presidente prudente
+3534708,Ourinhos,ourinhos,bauru
+3534807,Ouro Verde,dracena,presidente prudente
+3534757,Ouroeste,ouroeste,sao jose do rio preto
+3534906,Pacaembu,pacaembu,presidente prudente
+3535002,Palestina,palestina,sao jose do rio preto
+3535101,Palmares Paulista,santa adelia,sao jose do rio preto
+3535200,Palmeira d'Oeste,palmeira d'oeste,sao jose do rio preto
+3535309,Palmital,palmital,bauru
+3535408,Panorama,panorama,presidente prudente
+3535507,Paraguaçu Paulista,paraguacu paulista,presidente prudente
+3535606,Paraibuna,paraibuna,taubate
+3535705,Paraíso,monte azul paulista,ribeirao preto
+3535804,Paranapanema,paranapanema,bauru
+3535903,Paranapuã,jales,sao jose do rio preto
+3536000,Parapuã,osvaldo cruz,presidente prudente
+3536109,Pardinho,botucatu,bauru
+3536208,Pariquera-Açu,pariquera-acu,vale do ribeira
+3536257,Parisi,votuporanga,sao jose do rio preto
+3536307,Patrocínio Paulista,patrocinio paulista,franca
+3536406,Paulicéia,panorama,presidente prudente
+3536505,Paulínia,paulinia,campinas
+3536570,Paulistânia,agudos,bauru
+3536604,Paulo de Faria,paulo de faria,sao jose do rio preto
+3536703,Pederneiras,pederneiras,bauru
+3536802,Pedra Bela,braganca paulista,campinas
+3536901,Pedranópolis,fernandopolis,sao jose do rio preto
+3537008,Pedregulho,pedregulho,franca
+3537107,Pedreira,pedreira,campinas
+3537156,Pedrinhas Paulista,maracai,presidente prudente
+3537206,Pedro de Toledo,itariri,vale do ribeira
+3537305,Penápolis,penapolis,aracatuba
+3537404,Pereira Barreto,pereira barreto,aracatuba
+3537503,Pereiras,conchas,piracicaba
+3537602,Peruíbe,peruibe,santos
+3537701,Piacatu,bilac,aracatuba
+3537800,Piedade,piedade,sorocaba
+3537909,Pilar do Sul,pilar do sul,sorocaba
+3538006,Pindamonhangaba,pindamonhangaba,taubate
+3538105,Pindorama,catanduva,sao jose do rio preto
+3538204,Pinhalzinho,pinhalzinho,campinas
+3538303,Piquerobi,santo anastacio,presidente prudente
+3538501,Piquete,piquete,taubate
+3538600,Piracaia,piracaia,campinas
+3538709,Piracicaba,piracicaba,piracicaba
+3538808,Piraju,piraju,bauru
+3538907,Pirajuí,pirajui,bauru
+3539004,Pirangi,pirangi,ribeirao preto
+3539103,Pirapora do Bom Jesus,barueri,grande sao paulo
+3539202,Pirapozinho,pirapozinho,presidente prudente
+3539301,Pirassununga,pirassununga,ribeirao preto
+3539400,Piratininga,piratininga,bauru
+3539509,Pitangueiras,pitangueiras,ribeirao preto
+3539608,Planalto,buritama,aracatuba
+3539707,Platina,palmital,bauru
+3539806,Poá,poa,grande sao paulo
+3539905,Poloni,monte aprazivel,sao jose do rio preto
+3540002,Pompéia,pompeia,bauru
+3540101,Pongaí,pirajui,bauru
+3540200,Pontal,pontal,ribeirao preto
+3540259,Pontalinda,jales,sao jose do rio preto
+3540309,Pontes Gestal,cardoso,sao jose do rio preto
+3540408,Populina,estrela doeste,sao jose do rio preto
+3540507,Porangaba,porangaba,sorocaba
+3540606,Porto Feliz,porto feliz,sorocaba
+3540705,Porto Ferreira,porto ferreira,ribeirao preto
+3540754,Potim,aparecida,taubate
+3540804,Potirendaba,potirendaba,sao jose do rio preto
+3540853,Pracinha,lucelia,presidente prudente
+3540903,Pradópolis,guariba,ribeirao preto
+3541000,Praia Grande,praia grande,santos
+3541059,Pratânia,sao manuel,bauru
+3541109,Presidente Alves,pirajui,bauru
+3541208,Presidente Bernardes,presidente bernardes,presidente prudente
+3541307,Presidente Epitácio,presidente epitacio,presidente prudente
+3541406,Presidente Prudente,presidente prudente,presidente prudente
+3541505,Presidente Venceslau,presidente venceslau,presidente prudente
+3541604,Promissão,promissao,aracatuba
+3541653,Quadra,tatui,sorocaba
+3541703,Quatá,quata,presidente prudente
+3541802,Queiroz,tupa,presidente prudente
+3541901,Queluz,queluz,taubate
+3542008,Quintana,pompeia,bauru
+3542107,Rafard,capivari,piracicaba
+3542206,Rancharia,rancharia,presidente prudente
+3542305,Redenção da Serra,taubate,taubate
+3542404,Regente Feijó,regente feijo,presidente prudente
+3542503,Reginópolis,pirajui,bauru
+3542602,Registro,registro,vale do ribeira
+3542701,Restinga,franca,franca
+3542800,Ribeira,apiai,sorocaba
+3542909,Ribeirão Bonito,ribeirao bonito,ribeirao preto
+3543006,Ribeirão Branco,itapeva,sorocaba
+3543105,Ribeirão Corrente,franca,franca
+3543204,Ribeirão do Sul,ourinhos,bauru
+3543238,Ribeirão dos Índios,santo anastacio,presidente prudente
+3543253,Ribeirão Grande,capao bonito,sorocaba
+3543303,Ribeirão Pires,ribeirao pires,grande sao paulo
+3543402,Ribeirão Preto,ribeirao preto,ribeirao preto
+3543600,Rifaina,pedregulho,franca
+3543709,Rincão,americo brasiliense,ribeirao preto
+3543808,Rinópolis,tupa,presidente prudente
+3543907,Rio Claro,rio claro,piracicaba
+3544004,Rio das Pedras,rio das pedras,piracicaba
+3544103,Rio Grande da Serra,rio grande da serra,grande sao paulo
+3544202,Riolândia,paulo de faria,sao jose do rio preto
+3543501,Riversul,itaporanga,sorocaba
+3544251,Rosana,rosana,presidente prudente
+3544301,Roseira,roseira,taubate
+3544400,Rubiácea,guararapes,aracatuba
+3544509,Rubinéia,santa fe do sul,sao jose do rio preto
+3544608,Sabino,lins,aracatuba
+3544707,Sagres,osvaldo cruz,presidente prudente
+3544806,Sales,urupes,sao jose do rio preto
+3544905,Sales Oliveira,nuporanga,franca
+3545001,Salesópolis,salesopolis,grande sao paulo
+3545100,Salmourão,osvaldo cruz,presidente prudente
+3545159,Saltinho,piracicaba,piracicaba
+3545209,Salto,salto,sorocaba
+3545308,Salto de Pirapora,salto de pirapora,sorocaba
+3545407,Salto Grande,ourinhos,bauru
+3545506,Sandovalina,pirapozinho,presidente prudente
+3545605,Santa Adélia,santa adelia,sao jose do rio preto
+3545704,Santa Albertina,jales,sao jose do rio preto
+3545803,Santa Bárbara D'Oeste,santa barbara d'oeste,piracicaba
+3546009,Santa Branca,santa branca,taubate
+3546108,Santa Clara d'Oeste,santa fe do sul,sao jose do rio preto
+3546207,Santa Cruz da Conceição,leme,piracicaba
+3546256,Santa Cruz da Esperança,cajuru,ribeirao preto
+3546306,Santa Cruz das Palmeiras,santa cruz das palmeiras,ribeirao preto
+3546405,Santa Cruz do Rio Pardo,santa cruz do rio pardo,bauru
+3546504,Santa Ernestina,taquaritinga,ribeirao preto
+3546603,Santa Fé do Sul,santa fe do sul,sao jose do rio preto
+3546702,Santa Gertrudes,rio claro,piracicaba
+3546801,Santa Isabel,santa isabel,grande sao paulo
+3546900,Santa Lúcia,americo brasiliense,ribeirao preto
+3547007,Santa Maria da Serra,sao pedro,piracicaba
+3547106,Santa Mercedes,panorama,presidente prudente
+3547502,Santa Rita do Passa Quatro,santa rita do passa quatro,ribeirao preto
+3547403,Santa Rita d'Oeste,santa fe do sul,sao jose do rio preto
+3547601,Santa Rosa de Viterbo,santa rosa do viterbo,ribeirao preto
+3547650,Santa Salete,urania,sao jose do rio preto
+3547205,Santana da Ponte Pensa,santa fe do sul,sao jose do rio preto
+3547304,Santana de Parnaíba,santana de parnaiba,grande sao paulo
+3547700,Santo Anastácio,santo anastacio,presidente prudente
+3547809,Santo André,santo andre,grande sao paulo
+3547908,Santo Antônio da Alegria,altinopolis,franca
+3548005,Santo Antônio de Posse,jaguariuna,campinas
+3548054,Santo Antônio do Aracanguá,aracatuba,aracatuba
+3548104,Santo Antônio do Jardim,espirito santo do pinhal,campinas
+3548203,Santo Antônio do Pinhal,sao bento do sapucai,taubate
+3548302,Santo Expedito,presidente prudente,presidente prudente
+3548401,Santópolis do Aguapeí,birigui,aracatuba
+3548500,Santos,santos,santos
+3548609,São Bento do Sapucaí,sao bento do sapucai,taubate
+3548708,São Bernardo do Campo,sao bernardo do campo,grande sao paulo
+3548807,São Caetano do Sul,sao caetano do sul,grande sao paulo
+3548906,São Carlos,sao carlos,ribeirao preto
+3549003,São Francisco,palmeira doeste,sao jose do rio preto
+3549102,São João da Boa Vista,sao joao da boa vista,campinas
+3549201,São João das Duas Pontes,estrela doeste,sao jose do rio preto
+3549250,São João de Iracema,general salgado,sao jose do rio preto
+3549300,São João do Pau d'Alho,tupi paulista,presidente prudente
+3549409,São Joaquim da Barra,sao joaquim da barra,franca
+3549508,São José da Bela Vista,franca,franca
+3549607,São José do Barreiro,bananal,taubate
+3549706,São José do Rio Pardo,sao jose do rio pardo,ribeirao preto
+3549805,São José do Rio Preto,sao jose do rio preto,sao jose do rio preto
+3549904,São José dos Campos,sao jose dos campos,taubate
+3549953,São Lourenço da Serra,itapecerica da serra,grande sao paulo
+3550001,São Luís do Paraitinga,sao luis do paraitinga,taubate
+3550100,São Manuel,sao manuel,bauru
+3550209,São Miguel Arcanjo,sao miguel arcanjo,sorocaba
+3550308,São Paulo,sao paulo,capital
+3550407,São Pedro,sao pedro,piracicaba
+3550506,São Pedro do Turvo,santa cruz do rio pardo,bauru
+3550605,São Roque,sao roque,sorocaba
+3550704,São Sebastião,sao sebastiao,taubate
+3550803,São Sebastião da Grama,sao sebastiao da grama,ribeirao preto
+3550902,São Simão,sao simao,ribeirao preto
+3551009,São Vicente,sao vicente,santos
+3551108,Sarapuí,itapetininga,sorocaba
+3551207,Sarutaiá,piraju,bauru
+3551306,Sebastianópolis do Sul,macaubal,sao jose do rio preto
+3551405,Serra Azul,cravinhos,ribeirao preto
+3551603,Serra Negra,serra negra,campinas
+3551504,Serrana,serrana,ribeirao preto
+3551702,Sertãozinho,sertaozinho,ribeirao preto
+3551801,Sete Barras,registro,vale do ribeira
+3551900,Severínia,olimpia,sao jose do rio preto
+3552007,Silveiras,cachoeira paulista,taubate
+3552106,Socorro,socorro,campinas
+3552205,Sorocaba,sorocaba,sorocaba
+3552304,Sud Mennucci,pereira barreto,aracatuba
+3552403,Sumaré,sumare,campinas
+3552551,Suzanápolis,pereira barreto,aracatuba
+3552502,Suzano,suzano,grande sao paulo
+3552601,Tabapuã,tabapua,sao jose do rio preto
+3552700,Tabatinga,ibitinga,bauru
+3552809,Taboão da Serra,taboao da serra,grande sao paulo
+3552908,Taciba,regente feijo,presidente prudente
+3553005,Taguaí,fartura,bauru
+3553104,Taiaçu,jaboticabal,ribeirao preto
+3553203,Taiúva,jaboticabal,ribeirao preto
+3553302,Tambaú,tambau,ribeirao preto
+3553401,Tanabi,tanabi,sao jose do rio preto
+3553500,Tapiraí,piedade,sorocaba
+3553609,Tapiratiba,caconde,ribeirao preto
+3553658,Taquaral,pitangueiras,ribeirao preto
+3553708,Taquaritinga,taquaritinga,ribeirao preto
+3553807,Taquarituba,taquarituba,sorocaba
+3553856,Taquarivaí,itapeva,sorocaba
+3553906,Tarabai,pirapozinho,presidente prudente
+3553955,Tarumã,assis,presidente prudente
+3554003,Tatuí,tatui,sorocaba
+3554102,Taubaté,taubate,taubate
+3554201,Tejupá,piraju,bauru
+3554300,Teodoro Sampaio,teodoro sampaio,presidente prudente
+3554409,Terra Roxa,viradouro,ribeirao preto
+3554508,Tietê,tiete,sorocaba
+3554607,Timburi,piraju,bauru
+3554656,Torre de Pedra,porangaba,sorocaba
+3554706,Torrinha,brotas,piracicaba
+3554755,Trabiju,ribeirao bonito,ribeirao preto
+3554805,Tremembé,tremembe,taubate
+3554904,Três Fronteiras,santa fe do sul,sao jose do rio preto
+3554953,Tuiuti,braganca paulista,campinas
+3555000,Tupã,tupa,presidente prudente
+3555109,Tupi Paulista,tupi paulista,presidente prudente
+3555208,Turiúba,buritama,aracatuba
+3555307,Turmalina,estrela doeste,sao jose do rio preto
+3555356,Ubarana,jose bonifacio,sao jose do rio preto
+3555406,Ubatuba,ubatuba,taubate
+3555505,Ubirajara,duartina,bauru
+3555604,Uchoa,sao jose do rio preto,sao jose do rio preto
+3555703,União Paulista,macaubal,sao jose do rio preto
+3555802,Urânia,urania,sao jose do rio preto
+3555901,Uru,pirajui,bauru
+3556008,Urupês,urupes,sao jose do rio preto
+3556107,Valentim Gentil,votuporanga,sao jose do rio preto
+3556206,Valinhos,valinhos,campinas
+3556305,Valparaíso,valparaiso,aracatuba
+3556354,Vargem,braganca paulista,campinas
+3556404,Vargem Grande do Sul,vargem grande do sul,campinas
+3556453,Vargem Grande Paulista,vargem grande paulista,grande sao paulo
+3556503,Várzea Paulista,varzea paulista,campinas
+3556602,Vera Cruz,marilia,bauru
+3556701,Vinhedo,vinhedo,campinas
+3556800,Viradouro,viradouro,ribeirao preto
+3556909,Vista Alegre do Alto,pirangi,ribeirao preto
+3556958,Vitória Brasil,jales,sao jose do rio preto
+3557006,Votorantim,votorantim,sorocaba
+3557105,Votuporanga,votuporanga,sao jose do rio preto
+3557154,Zacarias,buritama,aracatuba
