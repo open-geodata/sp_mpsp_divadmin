@@ -1,17 +1,17 @@
-id_redeprotetiva,rp_num,rp_nome,rp_ugrhi
-1,I,Mantiqueira,UGRHI Mantiqueira
-2,II,Sapucaí/Grande,UGRHI Sapucaí/Grande
-3,III,Tietê/Sorocaba,UGRHI Tietê/Sorocaba
-4,IV,Baixo Pardo/Grande,UGRHI Baixo Pardo/Grande
-5,V,Tietê/Jacaré,UGHRI Tietê/Jacaré
-6,VI,Alto Paranapanema,UGRHI Alto Paranapanema
-7,VII,Turvo/Grande,UGRHI Turvo/Grande
-8,VIII,Tietê/Batalha,UGRHI Tietê/Batalha
-9,IX,São José dos Dourados,UGRHI São José dos Dourados
-10,X,Baixo Tietê,UGRHI Baixo Tietê
-11,XI,Aguapeí/Peixe,UGRHI Aguapeí/Peixe
-12,XII,Alto Tietê,UGRHI Alto Tietê
-13,XIII,Cotia/Pirapora,UGRHI Alto Tietê
-14,XIV,Alto Mogi,UGRHI Mogi-Guaçu
-15,XV,Médio Mogi Superior,UGRHI Mogi-Guaçu
-16,XVI,Médio Mogi Inferior,UGRHI Mogi-Guaçu
+id,nome,ugrhi
+1,Mantiqueira,UGRHI Mantiqueira
+2,Sapucaí/Grande,UGRHI Sapucaí/Grande
+3,Tietê/Sorocaba,UGRHI Tietê/Sorocaba
+4,Baixo Pardo/Grande,UGRHI Baixo Pardo/Grande
+5,Tietê/Jacaré,UGHRI Tietê/Jacaré
+6,Alto Paranapanema,UGRHI Alto Paranapanema
+7,Turvo/Grande,UGRHI Turvo/Grande
+8,Tietê/Batalha,UGRHI Tietê/Batalha
+9,São José dos Dourados,UGRHI São José dos Dourados
+10,Baixo Tietê,UGRHI Baixo Tietê
+11,Aguapeí/Peixe,UGRHI Aguapeí/Peixe
+12,Alto Tietê,UGRHI Alto Tietê
+13,Cotia/Pirapora,UGRHI Alto Tietê
+14,Alto Mogi,UGRHI Mogi-Guaçu
+15,Médio Mogi Superior,UGRHI Mogi-Guaçu
+16,Médio Mogi Inferior,UGRHI Mogi-Guaçu
