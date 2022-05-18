@@ -1,3 +1,10 @@
+# Dados
+data/_lixo/
+
+# IDEs
+.vscode/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
