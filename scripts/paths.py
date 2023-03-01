@@ -31,15 +31,15 @@ output_path_geo.mkdir(exist_ok=True)
 output_path_maps = output_path / 'maps'
 output_path_maps.mkdir(exist_ok=True)
 
-# Scrapy
-scrapy_path = project_path / 'scrapy'
-scrapy_path.mkdir(exist_ok=True)
+# # Scrapy
+# scrapy_path = project_path / 'scrapy'
+# scrapy_path.mkdir(exist_ok=True)
 
-logs_path = scrapy_path / 'logs'
-logs_path.mkdir(exist_ok=True)
+# logs_path = scrapy_path / 'logs'
+# logs_path.mkdir(exist_ok=True)
 
-adds_path = scrapy_path / 'adds'
-adds_path.mkdir(exist_ok=True)
+# adds_path = scrapy_path / 'adds'
+# adds_path.mkdir(exist_ok=True)
 
 
 if __name__ == '__main__':
