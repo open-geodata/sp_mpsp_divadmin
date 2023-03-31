@@ -4,19 +4,13 @@
 
 ### GAEMAs
 
-
-
 ### Redes Protetivas
-
-
 
 ### Áreas Regionais
 
-
-
 ### Macroregiões
 
-A divisão administrativa em macroregiões é utilizada pelo CAEx para divisão dos núcleoa desentralizados do CAEx/MPSP. Conforme pode ser observado pela [notícia](http://www.mpsp.mp.br/portal/page/portal/noticias/noticia?id_noticia=19968257&id_grupo=118) sobre o concurso para os técnicos, as Macroregiões estão correlacionadas com as Áreas Regionais, da seguinte forma:
+A divisão administrativa em macroregiões é utilizada pelo CAEx para divisão dos núcleos desentralizados do CAEx/MPSP. Conforme pode ser observado pela [notícia](http://www.mpsp.mp.br/portal/page/portal/noticias/noticia?id_noticia=19968257&id_grupo=118) sobre o concurso para os técnicos, as Macroregiões estão correlacionadas com as Áreas Regionais, da seguinte forma:
 
 - **Macrorregião I**: Áreas Regionais da Capital, da Grande São Paulo I, II e III, de Santos e do Vale do Ribeira
 - **Macrorregião II**: Áreas Regionais de Campinas e de Taubaté
@@ -26,9 +20,9 @@ A divisão administrativa em macroregiões é utilizada pelo CAEx para divisão 
 
 <br>
 
------
+---
 
-### *TODO:*
+### _TODO:_
 
 1. ...
 2. ...
