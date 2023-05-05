@@ -29,6 +29,9 @@ output_path_tabs.mkdir(exist_ok=True)
 output_path_geo = output_path / 'geo'
 output_path_geo.mkdir(exist_ok=True)
 
+output_path_gpkg = output_path / 'gpkg'
+output_path_gpkg.mkdir(exist_ok=True)
+
 output_path_maps = output_path / 'maps'
 output_path_maps.mkdir(exist_ok=True)
 

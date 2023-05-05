@@ -1,5 +1,8 @@
 # MPSP
 
+- [GitHub](https://github.com/open-geodata/sp_mpsp_divadmin)
+- [PyPi](https://pypi.org/project/sp-mpsp-divadmin)
+
 <br>
 
 ### GAEMAs
