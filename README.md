@@ -5,11 +5,27 @@
 
 <br>
 
+<br>
+
+---
+
 ### GAEMAs
+
+<br>
+
+---
 
 ### Redes Protetivas
 
+<br>
+
+---
+
 ### Áreas Regionais
+
+<br>
+
+---
 
 ### Macroregiões
 
