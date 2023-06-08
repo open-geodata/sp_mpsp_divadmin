@@ -1,6 +1,8 @@
 # Dados
 data/_lixo/
 */sp_mpsp.gpkg
+# sp_mpsp_divadmin/data/output/gpkg/*
+sp_mpsp_divadmin/data/output/lixo/*
 
 # IDEs
 .vscode/
