@@ -5,8 +5,6 @@
 
 <br>
 
-<br>
-
 ---
 
 ### GAEMAs
@@ -36,6 +34,14 @@ A divisão administrativa em macroregiões é utilizada pelo CAEx para divisão 
 - **Macrorregião III**: Áreas Regionais de Piracicaba e de Sorocaba
 - **Macrorregião IV**: Áreas Regionais de Araçatuba, de Bauru e de Presidente Prudente
 - **Macrorregião V**: Áreas Regionais de Franca, de Ribeirão Preto e de São José do Rio Preto
+
+<br>
+
+---
+
+### Promotorias Regionais do Meio Ambiente
+
+Em 07.06.2023 o MPSP noticiou a criação das PJ Regionais. Utilizando as informações da [notícia](https://www.mpsp.mp.br/w/%C3%93rg%C3%A3o-especial-aprova-cria%C3%A7%C3%A3o-de-promotorias-regionais-do-meio-ambiente), criei o mapa.
 
 <br>
 
