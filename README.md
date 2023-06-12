@@ -1,7 +1,7 @@
 # MPSP
 
-- [GitHub](https://github.com/open-geodata/sp_mpsp_divadmin)
-- [PyPi](https://pypi.org/project/sp-mpsp-divadmin)
+[GitHub](https://github.com/open-geodata/sp_mpsp_divadmin) |
+[PyPI](https://pypi.org/project/sp-mpsp-divadmin)
 
 <br>
 
