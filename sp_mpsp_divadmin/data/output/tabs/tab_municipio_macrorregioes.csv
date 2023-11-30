@@ -132,7 +132,6 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3511508,Cerquilho,3,Piracicaba
 3511607,Cesário Lange,3,Piracicaba
 3511706,Charqueada,3,Piracicaba
-3557204,Chavantes,4,Bauru
 3511904,Clementina,4,Bauru
 3512001,Colina,5,Ribeirão Preto
 3512100,Colômbia,5,Ribeirão Preto
@@ -173,13 +172,12 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3515152,Engenheiro Coelho,2,Campinas
 3515186,Espírito Santo do Pinhal,2,Campinas
 3515194,Espírito Santo do Turvo,4,Bauru
-3557303,Estiva Gerbi,2,Campinas
 3515202,Estrela d'Oeste,5,Ribeirão Preto
 3515301,Estrela do Norte,4,Bauru
 3515350,Euclides da Cunha Paulista,4,Bauru
 3515400,Fartura,4,Bauru
-3515608,Fernando Prestes,5,Ribeirão Preto
 3515509,Fernandópolis,5,Ribeirão Preto
+3515608,Fernando Prestes,5,Ribeirão Preto
 3515657,Fernão,4,Bauru
 3515707,Ferraz de Vasconcelos,1,São Paulo
 3515806,Flora Rica,4,Bauru
@@ -233,9 +231,9 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3520103,Igarapava,5,Ribeirão Preto
 3520202,Igaratá,1,São Paulo
 3520301,Iguape,1,São Paulo
+3520400,Ilhabela,2,Campinas
 3520426,Ilha Comprida,1,São Paulo
 3520442,Ilha Solteira,4,Bauru
-3520400,Ilhabela,2,Campinas
 3520509,Indaiatuba,2,Campinas
 3520608,Indiana,4,Bauru
 3520707,Indiaporã,5,Ribeirão Preto
@@ -337,15 +335,15 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3529658,Mesópolis,5,Ribeirão Preto
 3529708,Miguelópolis,5,Ribeirão Preto
 3529807,Mineiros do Tietê,4,Bauru
-3530003,Mira Estrela,5,Ribeirão Preto
 3529906,Miracatu,1,São Paulo
+3530003,Mira Estrela,5,Ribeirão Preto
 3530102,Mirandópolis,4,Bauru
 3530201,Mirante do Paranapanema,4,Bauru
 3530300,Mirassol,5,Ribeirão Preto
 3530409,Mirassolândia,5,Ribeirão Preto
 3530508,Mococa,5,Ribeirão Preto
-3530706,Mogi Guaçu,2,Campinas
 3530607,Mogi das Cruzes,1,São Paulo
+3530706,Mogi Guaçu,2,Campinas
 3530805,Mogi Mirim,2,Campinas
 3530904,Mombuca,3,Piracicaba
 3531001,Monções,5,Ribeirão Preto
@@ -355,8 +353,8 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3531407,Monte Aprazível,5,Ribeirão Preto
 3531506,Monte Azul Paulista,5,Ribeirão Preto
 3531605,Monte Castelo,4,Bauru
-3531803,Monte Mor,2,Campinas
 3531704,Monteiro Lobato,2,Campinas
+3531803,Monte Mor,2,Campinas
 3531902,Morro Agudo,5,Ribeirão Preto
 3532009,Morungaba,2,Campinas
 3532058,Motuca,5,Ribeirão Preto
@@ -376,9 +374,9 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3533007,Nova Granada,5,Ribeirão Preto
 3533106,Nova Guataporanga,4,Bauru
 3533205,Nova Independência,4,Bauru
+3533254,Novais,5,Ribeirão Preto
 3533304,Nova Luzitânia,5,Ribeirão Preto
 3533403,Nova Odessa,2,Campinas
-3533254,Novais,5,Ribeirão Preto
 3533502,Novo Horizonte,5,Ribeirão Preto
 3533601,Nuporanga,5,Ribeirão Preto
 3533700,Ocauçu,4,Bauru
@@ -392,8 +390,8 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3534500,Oscar Bressane,4,Bauru
 3534609,Osvaldo Cruz,4,Bauru
 3534708,Ourinhos,4,Bauru
-3534807,Ouro Verde,4,Bauru
 3534757,Ouroeste,5,Ribeirão Preto
+3534807,Ouro Verde,4,Bauru
 3534906,Pacaembu,4,Bauru
 3535002,Palestina,5,Ribeirão Preto
 3535101,Palmares Paulista,5,Ribeirão Preto
@@ -489,6 +487,7 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3543253,Ribeirão Grande,3,Piracicaba
 3543303,Ribeirão Pires,1,São Paulo
 3543402,Ribeirão Preto,5,Ribeirão Preto
+3543501,Riversul,3,Piracicaba
 3543600,Rifaina,5,Ribeirão Preto
 3543709,Rincão,5,Ribeirão Preto
 3543808,Rinópolis,4,Bauru
@@ -496,7 +495,6 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3544004,Rio das Pedras,3,Piracicaba
 3544103,Rio Grande da Serra,1,São Paulo
 3544202,Riolândia,5,Ribeirão Preto
-3543501,Riversul,3,Piracicaba
 3544251,Rosana,4,Bauru
 3544301,Roseira,2,Campinas
 3544400,Rubiácea,4,Bauru
@@ -528,12 +526,12 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3546900,Santa Lúcia,5,Ribeirão Preto
 3547007,Santa Maria da Serra,3,Piracicaba
 3547106,Santa Mercedes,4,Bauru
+3547205,Santana da Ponte Pensa,5,Ribeirão Preto
+3547304,Santana de Parnaíba,1,São Paulo
 3547403,Santa Rita d'Oeste,5,Ribeirão Preto
 3547502,Santa Rita do Passa Quatro,5,Ribeirão Preto
 3547601,Santa Rosa de Viterbo,5,Ribeirão Preto
 3547650,Santa Salete,5,Ribeirão Preto
-3547205,Santana da Ponte Pensa,5,Ribeirão Preto
-3547304,Santana de Parnaíba,1,São Paulo
 3547700,Santo Anastácio,4,Bauru
 3547809,Santo André,1,São Paulo
 3547908,Santo Antônio da Alegria,5,Ribeirão Preto
@@ -575,8 +573,8 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3551207,Sarutaiá,4,Bauru
 3551306,Sebastianópolis do Sul,5,Ribeirão Preto
 3551405,Serra Azul,5,Ribeirão Preto
-3551603,Serra Negra,2,Campinas
 3551504,Serrana,5,Ribeirão Preto
+3551603,Serra Negra,2,Campinas
 3551702,Sertãozinho,5,Ribeirão Preto
 3551801,Sete Barras,1,São Paulo
 3551900,Severínia,5,Ribeirão Preto
@@ -585,8 +583,8 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3552205,Sorocaba,3,Piracicaba
 3552304,Sud Mennucci,4,Bauru
 3552403,Sumaré,2,Campinas
-3552551,Suzanápolis,4,Bauru
 3552502,Suzano,1,São Paulo
+3552551,Suzanápolis,4,Bauru
 3552601,Tabapuã,5,Ribeirão Preto
 3552700,Tabatinga,4,Bauru
 3552809,Taboão da Serra,1,São Paulo
@@ -644,3 +642,5 @@ id_municipio,municipio_nome,id_macrorregiao,macrorregiao_nome
 3557006,Votorantim,3,Piracicaba
 3557105,Votuporanga,5,Ribeirão Preto
 3557154,Zacarias,4,Bauru
+3557204,Chavantes,4,Bauru
+3557303,Estiva Gerbi,2,Campinas

@@ -14,7 +14,7 @@ for line in open('requirements.txt', encoding='utf-8'):
     if not li.startswith('#'):
         requirements.append(line.rstrip())
 
-VERSION = (0, 0, 3)
+VERSION = (0, 0, 4)
 __version__ = '.'.join(map(str, VERSION))
 
 setup(
@@ -22,7 +22,7 @@ setup(
     version=__version__,
     author='Michel Metran',
     author_email='michelmetran@gmail.com',
-    description='Divisão Administrativa das Áreas Regionais, GAEMAs, Redes Protetivas e Macroregiões',
+    description='Divisão Administrativa das Áreas Regionais, GAEMAs, Redes Protetivas e Macroregiões e outras',
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/open-geodata/sp_mpsp_divadmin',
