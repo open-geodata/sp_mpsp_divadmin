@@ -1,4 +1,0 @@
-folium
-geopandas
-pandas
-open_geodata

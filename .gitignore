@@ -5,6 +5,10 @@ sp_mpsp_divadmin/data/output/gpkg/*
 #sp_mpsp_divadmin/data/output/_lixo/*
 #sp_mpsp_divadmin/data/output/lixo/*
 
+
+# 
+_lixo/
+
 # IDEs
 .vscode/
 .idea/
